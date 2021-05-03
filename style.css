@@ -97,3 +97,9 @@ p {
     background-color: black;
     text-decoration: underline;
 }
+html{
+    scroll-behavior: smooth;
+}
+img{
+    border-radius: 50px;
+}
